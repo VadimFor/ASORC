@@ -1,2 +1,1 @@
-# ASORC
- 3º. Obligatoria
+## ASORC
